@@ -46,7 +46,7 @@
 
 						<!-- info -->
 							<article id="info">
-								<h2 class="major">Wedding Info | Thông Tin Cưới</h2>
+								<h2 class="major">Information | Thông Tin</h2>
 								<span class="image main"><img src="images/unedited_white.jpg" alt=""/></span>
 								<p>Xin Vui lòng đén dự tiệc chung vui cùng gia đình chúng tôi vào lúc 5 giờ chiều tại.<br />
 								We request the honor of your presence at our wedding reception at 5 pm.</p>
@@ -61,7 +61,7 @@
 						<!-- Work -->
 
 							<article id="rsvp">
-								<h2 class="major">RSvP | Xin Phản Hồi</h2>
+								<h2 class="major">RSVP | Phản Hồi</h2>
 								<form method="post" action="submission.php">
 									<div class="fields">
 										<div class="field half">
