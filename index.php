@@ -62,33 +62,7 @@
 
 							<article id="rsvp">
 								<h2 class="major">RSVP | Phản Hồi</h2>
-								<form method="post" action="submission.php">
-									<div class="fields">
-										<div class="field half">
-											<label for="name">Name | Tên</label>
-											<input type="text" name="name" id="name" />
-										</div>
-										<div class="field half">
-											<label for="phone">Phone | Điện Thoại</label>
-											<input type="text" name="phone" id="phone" />
-										</div>
-										<div class = "field">
-											<h3 for="guest">Number of Guests | Số Lượng Khách</h3>
-											<label>Adults | Người Lớn</label>
-											<input type="text" name="adults" id="adults" />
-											<label><br />Children | Trẻ Em</label>
-											<input type="text" name="children" id="children" />
-										</div>
-										<div class="field">
-											<label for="message">Notes | Ghi Chú</label>
-											<textarea name="message" id="message" rows="4"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="primary" /></li>
-										<li><input type="reset" value="Reset" /></li>
-									</ul>
-								</form>
+								<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfve1TGqjYCFVdx9XWfMSSCiKpUkgKDi7JRZFBzCDzxGOrJ9A/viewform?embedded=true" width="640" height="1139" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 							</article>
 
 						<!-- About -->
