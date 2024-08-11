@@ -59,7 +59,15 @@
 									.button-link{
 										border: solid 1px;
 										border-radius: 4px;
+										margin: 2px;
 									}
+
+									.button-link:hover{
+										background-color: white;
+										color: black;
+										font-style: bold;
+									}
+
 								</style>
 								<nav class = button-link>
 								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
