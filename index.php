@@ -55,6 +55,7 @@
 								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
 								<h3>Vietnamese Martyrs Catholic Church<br/>
 								2915 W Northern Ave, Phoenix, AZ 85051<br/></h3>
+								<span class="image main"><img src="images/unedited_white.jpg" alt=""/></span>
 
 								<h3>12:00 - 12:45 PM Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session</h3>
 								<p>Tham gia chụp ảnh cùng cô dâu và chú rể.<br/>
@@ -70,6 +71,7 @@
 								<h2>Tiệc chiêu đãi | Reception</h2>
 								<h3>Legends Event Center <br/>
 								4240 W Camelback Rd, Phoenix, AZ 85019<br/></h3>
+								<span class="image main"><img src="images/unedited_white.jpg" alt=""/></span>
 								
 								<h3>5:00 PM Tiệc cưới bắt đầu | Reception Starts</h>
 
