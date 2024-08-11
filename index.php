@@ -53,8 +53,9 @@
 								We would be delighted to have you at either event, though attending both is not necessary.</p>
 
 								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
-								<h3 class="border-title">Vietnamese Martyrs Catholic Church<br/>
+								<h3>Vietnamese Martyrs Catholic Church<br/>
 								2915 W Northern Ave, Phoenix, AZ 85051<br/></h3>
+								<hr style="width:50%;text-align:left;margin:0 " class="random-line">
 
 								<h3>12:00 - 12:45 PM Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session</h3>
 								<p>Tham gia chụp ảnh cùng cô dâu và chú rể.<br/>
@@ -66,26 +67,26 @@
 								Celebrate the bride and groom's union.
 							    </p>
 
-								
 								<h2>Tiệc chiêu đãi | Reception</h2>
-								<h3 class="border-title">Legends Event Center <br/>
+								<h3>Legends Event Center <br/>
 								4240 W Camelback Rd, Phoenix, AZ 85019<br/></h3>
+								<hr style="width:50%;text-align:left;margin:0" class="random-line">
 
-								<h3>5:00 PM </h3> <h4>Tiệc cưới bắt đầu | Reception Starts</h4>
+								<h3>5:00 PM </h3> <p>Tiệc cưới bắt đầu | Reception Starts</p>
 
-								<h3>5:00 - 6:30 PM</h3> <h4>Ảnh với cô dâu và chú rể | Photos with Groom and Bride</h4>
+								<h3>5:00 - 6:30 PM</h3> <p>Ảnh với cô dâu và chú rể | Photos with Groom and Bride</p>
 
-								<h3>6:30-7:00 PM </h3> <h4>Bắt đầu bữa tối | Grand Entrance</h4>
+								<h3>6:30-7:00 PM </h3> <p>Bắt đầu bữa tối | Grand Entrance</p>
 
-								<h3>7:00 - 7:15 PM</h3> <h4>Bắt đầu bữa tối | First Dance</h4>
+								<h3>7:00 - 7:15 PM</h3> <p>Bắt đầu bữa tối | First Dance</p>
 
-								<h3>7:30 - 9:30 PM</h3> <h4>Bữa tối được phục vụ | Dinner Starts </h4>
+								<h3>7:30 - 9:30 PM</h3> <p>Bữa tối được phục vụ | Dinner Starts </p>
 
-								<h3>7:45 - 9:30 PM</h3> <h4>Thăm từng bàn | Table Toasting</h4>
+								<h3>7:45 - 9:30 PM</h3> <p>Thăm từng bàn | Table Toasting</p>
 
-								<h3>9:30 - 10:00 PM </h3> <h4>Cắt bánh | Cake Cutting</h4>
+								<h3>9:30 - 10:00 PM </h3> <p>Cắt bánh | Cake Cutting</p>
 
-								<h3>10:00 PM - 2:00 AM </h3><h4>Tiệc sau lễ cưới | After Party</h4>
+								<h3>10:00 PM - 2:00 AM </h3><p>Tiệc sau lễ cưới | After Party</p>
 
 								<img src="images/logo.png" alt="logo" style="width: 25%; height: 25%;" />
 								
