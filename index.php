@@ -53,7 +53,8 @@
 								We would be delighted to have you at either event, though attending both is not necessary.</p>
 
 								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
-								<h3>2915 W Northern Ave, Phoenix, AZ 85051</h3>
+								<h3>Vietnamese Martyrs Catholic Church<br/>
+								2915 W Northern Ave, Phoenix, AZ 85051<br/></h3>
 
 								<h4>12:00 - 12:45 PM</h4>
 								<p>Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session<br/>
