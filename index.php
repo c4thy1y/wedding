@@ -32,8 +32,8 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#info">Info | Thông Tin</a></li>
 								<li><a href="#rsvp" id = rsvp-button>RSVP | Phản Hồi</a></li>
+								<li><a href="#info">Info | Thông Tin</a></li>
 								<li><a href="#gallery">Gallery | Bảo Tàng</a></li>
 								<li><a href="#contact">Travel Details | Địa Diểm</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
