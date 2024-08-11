@@ -52,9 +52,6 @@
 								<p>Chúng tôi rất vui nếu bạn tham dự một trong hai sự kiện, dù không cần thiết phải tham dự cả hai.<br/>
 								We would be delighted to have you at either event, though attending both is not necessary.</p>
 
-								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
-								<h3>Vietnamese Martyrs Catholic Church<br/>
-								2915 W Northern Ave, Phoenix, AZ 85051<br/>
 								<style>
 									.button-link{
 										border: solid 1px;
@@ -62,6 +59,7 @@
 										margin: 2px;
 										width: 50%;
 										text-align: center;
+										align-items: :center;
 									}
 
 									.button-link:hover{
@@ -69,8 +67,11 @@
 										color: black;
 										font-style: bold;
 									}
-
 								</style>
+								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
+								<h3>Vietnamese Martyrs Catholic Church<br/>
+								2915 W Northern Ave, Phoenix, AZ 85051<br/>
+
 								<nav class = button-link>
 								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
 								   Xem Yelp | View Yelp
