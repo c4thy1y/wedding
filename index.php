@@ -60,6 +60,8 @@
 										border: solid 1px;
 										border-radius: 4px;
 										margin: 2px;
+										width: 50%;
+										text-align: center;
 									}
 
 									.button-link:hover{
