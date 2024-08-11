@@ -52,8 +52,8 @@
 								<p>Chúng tôi rất vui nếu bạn tham dự một trong hai sự kiện, dù không cần thiết phải tham dự cả hai.<br/>
 								We would be delighted to have you at either event, though attending both is not necessary.</p>
 
-								<h3>Lễ cưới tại nhà thờ | Church Ceremony</h3>
-								<h4>2915 W Northern Ave, Phoenix, AZ 85051</h4>
+								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
+								<h3>2915 W Northern Ave, Phoenix, AZ 85051</h3>
 
 								<h4>12:00 - 12:45 PM</h4>
 								<p>Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session<br/>
@@ -68,12 +68,12 @@
 							    </p>
 
 								
-								<h3>Tiệc chiêu đãi | Reception</h3>
-								<h4>Legends Event Center </h4>
-								<h4>4240 W Camelback Rd, Phoenix, AZ 85019</h4>
+								<h2>Tiệc chiêu đãi | Reception</h2>
+								<h3>Legends Event Center <br/>
+								4240 W Camelback Rd, Phoenix, AZ 85019</h3>
 								
 								<h4>5:00 PM</h4>
-								<p>Tiệc cưới bắt đầu | Reception Starts<br/>
+								<p>Tiệc cưới bắt đầu <br/> Reception Starts
 							    </p>
 
 								<h4>5:00 - 6:30 PM</h4>
@@ -82,27 +82,27 @@
 							    </p>
 
 								<h4>6:30-7:00 PM</h4>
-								<p>Bắt đầu bữa tối | Grand Entrance<br/>
+								<p>Bắt đầu bữa tối <br/> Grand Entrance
 							    </p>
 
 								<h4>7:00 - 7:15 PM</h4>
-								<p>Bắt đầu bữa tối | First Dance<br/>
+								<p>Bắt đầu bữa tối <br/> First Dance<br/>
 							    </p>
 
 								<h4>7:30 - 9:30 PM</h4>
-								<p>Bắt đầu bữa tối | Dinner Starts<br/>
+								<p>Bắt đầu bữa tối <br/> Dinner Starts
 							    </p>
 
 								<h4>7:45 - 9:30 PM</h4>
-								<p>Bắt đầu bữa tối | Table Toasting
+								<p>Bắt đầu bữa tối <br/> Table Toasting
 							    </p>
 
 								<h4>9:30 - 10:00 PM</h4>
-								<p>Thời gian nghỉ cho cô dâu và chú rể | Cake Cutting<br/>
+								<p>Thời gian nghỉ cho cô dâu và chú rể <br/> Cake Cutting
 							    </p>
 
 								<h4>10:00 PM - 2:00 AM</h4>
-								<p>Tiệc cưới bắt đầu |After Party<br/>
+								<p>Tiệc cưới bắt đầu <br/>After Party
 							    </p>
 
 
