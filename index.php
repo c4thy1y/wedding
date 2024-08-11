@@ -57,8 +57,17 @@
 								<h4>2915 W Northern Ave, Phoenix, AZ 85051</h4>
 								<h4>12:00 - 12:45 PM</h4>
 								<p>Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session<br/>
-								Xin hãy tham gia buổi chụp ảnh trước lễ tại nhà thờ. Đây là cơ hội đặc biệt để chụp hình cùng cô dâu và chú rể trước khi buổi lễ bắt đầu. Sự hiện diện của bạn sẽ giúp ghi lại những khoảnh khắc quý giá này.<br/>
+								Xin hãy tham gia buổi chụp ảnh trước lễ tại nhà thờ. Đây là cơ hội đặc biệt để chụp hình cùng cô dâu và chú rể trước khi buổi lễ bắt đầu. 
+								Sự hiện diện của bạn sẽ giúp ghi lại những khoảnh khắc quý giá này.<br/>
 								Please join us for a pre-ceremony photo session at the church. This is a special opportunity to take pictures with the bride and groom before the ceremony begins. Your presence will help capture these cherished moments.
+							    </p>
+
+								<h4>1:00 - 3:00 PM</h4>
+								<p>Lễ Cưới Bắt Đầu | Church Ceremony Starts<br/>
+								Lễ cưới tại nhà thờ sắp bắt đầu! Hãy cùng chúng tôi chúc mừng sự kết hợp của cô dâu và chú rể trong một không gian đẹp và thiêng liêng. 
+								Sự hiện diện của bạn sẽ làm cho khoảnh khắc này thêm phần đáng nhớ khi chúng ta cùng chứng kiến và chia sẻ những lời thề đặc biệt của họ.<br/>
+								The church ceremony is about to begin! Join us as we celebrate the union of the bride and groom in a beautiful and sacred setting. 
+								Your presence will make this moment even more memorable as we witness and share in their special vows.
 							    </p>
 
 								
