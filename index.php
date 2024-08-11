@@ -93,7 +93,7 @@
 								<h2>Tiệc chiêu đãi | Reception</h2>
 								<h3>Legends Event Center <br/>
 								4240 W Camelback Rd, Phoenix, AZ 85019<br/>
-								<nav>
+								<nav class = button-link>
 								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
 								   Xem Yelp | View Yelp
 								   </a>
