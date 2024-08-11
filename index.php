@@ -56,15 +56,13 @@
 								<h3>Vietnamese Martyrs Catholic Church<br/>
 								2915 W Northern Ave, Phoenix, AZ 85051<br/></h3>
 
-								<h4>12:00 - 12:45 PM</h4>
-								<p>Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session<br/>
-								Tham gia chụp ảnh cùng cô dâu và chú rể.<br/>
+								<h3>12:00 - 12:45 PM Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session</h3>
+								<p>Tham gia chụp ảnh cùng cô dâu và chú rể.<br/>
 								Join us for a photo session with the bride and groom.
 							    </p>
 
-								<h4>1:00 - 3:00 PM</h4>
-								<p>Lễ Cưới Bắt Đầu | Church Ceremony Starts<br/>
-								Chúc mừng sự kết hợp của cô dâu và chú rể.<br/>
+								<h3>1:00 - 3:00 PM Lễ Cưới Bắt Đầu | Church Ceremony Starts</h3>
+								<p>Chúc mừng sự kết hợp của cô dâu và chú rể.<br/>
 								Celebrate the bride and groom's union.
 							    </p>
 
@@ -73,39 +71,21 @@
 								<h3>Legends Event Center <br/>
 								4240 W Camelback Rd, Phoenix, AZ 85019<br/></h3>
 								
-								<h4>5:00 PM</h4>
-								<p>Tiệc cưới bắt đầu <br/> Reception Starts
-							    </p>
-								<h4>5:00 - 6:30 PM</h4>
-								<p>Ảnh với cô dâu và chú rể<br/>
-								Photos with Groom and Bride
-							    </p>
+								<h3>5:00 PM Tiệc cưới bắt đầu | Reception Starts</h>
 
-								<h4>6:30-7:00 PM</h4>
-								<p>Bắt đầu bữa tối <br/> Grand Entrance
-							    </p>
+								<h3>5:00 - 6:30 PM Ảnh với cô dâu và chú rể | Photos with Groom and Bride</h3>
 
-								<h4>7:00 - 7:15 PM</h4>
-								<p>Bắt đầu bữa tối <br/> First Dance<br/>
-							    </p>
+								<h3>6:30-7:00 PM Bắt đầu bữa tối | Grand Entrance</h3>
 
-								<h4>7:30 - 9:30 PM</h4>
-								<p>Bắt đầu bữa tối <br/> Dinner Starts
-							    </p>
+								<h3>7:00 - 7:15 PM Bắt đầu bữa tối | First Dance</h3>
 
-								<h4>7:45 - 9:30 PM</h4>
-								<p>Bắt đầu bữa tối <br/> Table Toasting
-							    </p>
+								<h3>7:30 - 9:30 PM Bữa tối được phục vụ | Dinner Starts </h3>
 
-								<h4>9:30 - 10:00 PM</h4>
-								<p>Thời gian nghỉ cho cô dâu và chú rể <br/> Cake Cutting
-							    </p>
+								<h3>7:45 - 9:30 PM Thăm từng bàn | Table Toasting</h3>
 
-								<h4>10:00 PM - 2:00 AM</h4>
-								<p>Tiệc cưới bắt đầu <br/>After Party
-							    </p>
+								<h3>9:30 - 10:00 PM Cắt bánh | Cake Cutting</h3>
 
-
+								<h3>10:00 PM - 2:00 AM Tiệc sau lễ cưới | After Party</h3>
 
 								<img src="images/logo.png" alt="logo" style="width: 25%; height: 25%;" />
 								
