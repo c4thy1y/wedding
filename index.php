@@ -70,12 +70,11 @@
 								
 								<h2>Tiệc chiêu đãi | Reception</h2>
 								<h3>Legends Event Center <br/>
-								4240 W Camelback Rd, Phoenix, AZ 85019</h3>
+								4240 W Camelback Rd, Phoenix, AZ 85019<br/></h3>
 								
 								<h4>5:00 PM</h4>
 								<p>Tiệc cưới bắt đầu <br/> Reception Starts
 							    </p>
-
 								<h4>5:00 - 6:30 PM</h4>
 								<p>Ảnh với cô dâu và chú rể<br/>
 								Photos with Groom and Bride
