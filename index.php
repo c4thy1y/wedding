@@ -56,7 +56,7 @@
 								<h3>Vietnamese Martyrs Catholic Church<br/>
 								2915 W Northern Ave, Phoenix, AZ 85051<br/>
 								<a href="https://www.yelp.com/biz/vietnamese-martyrs-parish-phoenix">
-								   Nhấp vào đây để xem liên kết Yelp | Click Here for the Yelp Link
+								Xem Yelp | View Yelp
 								</a>
 							    </h3>
 								<hr style="width:100%;text-align:left;margin:0 0 10px" class="random-line">
@@ -75,7 +75,7 @@
 								<h3>Legends Event Center <br/>
 								4240 W Camelback Rd, Phoenix, AZ 85019<br/>
 								<a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
-								   Nhấp vào đây để xem liên kết Yelp | Click Here for the Yelp Link
+								Xem Yelp | View Yelp
 								</a>
 						        </h3>
 								<hr style="width:100%;text-align:left;margin:0 0 10px" class="random-line">
