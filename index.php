@@ -48,34 +48,65 @@
 							<article id="info">
 								<h2 class="major">Info | Thông Tin</h2>
 								<span class="image main"><img src="images/unedited_white.jpg" alt=""/></span>
-								<H2>Guest Schedule</H2>
-								<p>Chúng tôi rất vui mừng được đón tiếp bạn tại các sự kiện dưới đây. Mặc dù không bắt buộc phải tham dự cả hai sự kiện, nhưng sự hiện diện của bạn tại bất kỳ sự kiện nào cũng sẽ làm cho buổi lễ trở nên đặc biệt hơn.<br/>
-									We would be delighted by your presence at the following events. While attending both is not necessary, your presence at either would add a special touch to the occasion.
-								</p>
+								<H2>LỊCH TRÌNH KHÁCH MỜI | Guest Schedule</H2>
+								<p>Chúng tôi rất vui nếu bạn tham dự một trong hai sự kiện, dù không cần thiết phải tham dự cả hai.<br/>
+								We would be delighted to have you at either event, though attending both is not necessary.</p>
 
 								<h3>Lễ cưới tại nhà thờ | Church Ceremony</h3>
 								<h4>2915 W Northern Ave, Phoenix, AZ 85051</h4>
+
 								<h4>12:00 - 12:45 PM</h4>
 								<p>Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session<br/>
-								Xin hãy tham gia buổi chụp ảnh trước lễ tại nhà thờ. Đây là cơ hội đặc biệt để chụp hình cùng cô dâu và chú rể trước khi buổi lễ bắt đầu. 
-								Sự hiện diện của bạn sẽ giúp ghi lại những khoảnh khắc quý giá này.<br/>
-								Please join us for a pre-ceremony photo session at the church. This is a special opportunity to take pictures with the bride and groom before the ceremony begins. Your presence will help capture these cherished moments.
+								Tham gia chụp ảnh cùng cô dâu và chú rể.<br/>
+								Join us for a photo session with the bride and groom.
 							    </p>
 
 								<h4>1:00 - 3:00 PM</h4>
 								<p>Lễ Cưới Bắt Đầu | Church Ceremony Starts<br/>
-								Lễ cưới tại nhà thờ sắp bắt đầu! Hãy cùng chúng tôi chúc mừng sự kết hợp của cô dâu và chú rể trong một không gian đẹp và thiêng liêng. 
-								Sự hiện diện của bạn sẽ làm cho khoảnh khắc này thêm phần đáng nhớ khi chúng ta cùng chứng kiến và chia sẻ những lời thề đặc biệt của họ.<br/>
-								The church ceremony is about to begin! Join us as we celebrate the union of the bride and groom in a beautiful and sacred setting. 
-								Your presence will make this moment even more memorable as we witness and share in their special vows.
+								Chúc mừng sự kết hợp của cô dâu và chú rể.<br/>
+								Celebrate the bride and groom's union.
 							    </p>
 
 								
-
-								<h3>Legends Event Center </h3>
+								<h3>Tiệc chiêu đãi | Reception</h3>
+								<h4>Legends Event Center </h4>
 								<h4>4240 W Camelback Rd, Phoenix, AZ 85019</h4>
-								<p>SỰ HIỆN DIỆN CỦA QUÝ VỊ LÀ NIỀM VINH HẠNH CHO GIA ĐÌNH CHÚNG TÔI. <br />
-								Your presence will be a great honor to our families.</p>
+								
+								<h4>5:00 PM</h4>
+								<p>Tiệc cưới bắt đầu | Reception Starts<br/>
+							    </p>
+
+								<h4>5:00 - 6:30 PM</h4>
+								<p>Ảnh với cô dâu và chú rể<br/>
+								Photos with Groom and Bride
+							    </p>
+
+								<h4>6:30-7:00 PM</h4>
+								<p>Bắt đầu bữa tối | Grand Entrance<br/>
+							    </p>
+
+								<h4>7:00 - 7:15 PM</h4>
+								<p>Bắt đầu bữa tối | First Dance<br/>
+							    </p>
+
+								<h4>7:30 - 9:30 PM</h4>
+								<p>Bắt đầu bữa tối | Dinner Starts<br/>
+							    </p>
+
+								<h4>7:45 - 9:30 PM</h4>
+								<p>Bắt đầu bữa tối | Table Toasting
+							    </p>
+
+								<h4>9:30 - 10:00 PM</h4>
+								<p>Thời gian nghỉ cho cô dâu và chú rể | Cake Cutting<br/>
+							    </p>
+
+								<h4>10:00 PM - 2:00 AM</h4>
+								<p>Tiệc cưới bắt đầu |After Party<br/>
+							    </p>
+
+
+
 								<img src="images/logo.png" alt="logo" style="width: 25%; height: 25%;" />
 								
 							</article>
