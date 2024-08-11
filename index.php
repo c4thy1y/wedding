@@ -48,10 +48,23 @@
 							<article id="info">
 								<h2 class="major">Info | Thông Tin</h2>
 								<span class="image main"><img src="images/unedited_white.jpg" alt=""/></span>
-								<p>Xin Vui lòng đén dự tiệc chung vui cùng gia đình chúng tôi vào lúc 5 giờ chiều tại.<br />
-								We request the honor of your presence at our wedding reception at 5 pm.</p>
+								<H2>Guest Schedule</H2>
+								<p>Chúng tôi rất vui mừng được đón tiếp bạn tại các sự kiện dưới đây. Mặc dù không bắt buộc phải tham dự cả hai sự kiện, nhưng sự hiện diện của bạn tại bất kỳ sự kiện nào cũng sẽ làm cho buổi lễ trở nên đặc biệt hơn.<br/>
+									We would be delighted by your presence at the following events. While attending both is not necessary, your presence at either would add a special touch to the occasion.
+								</p>
+
+								<h3>Lễ cưới tại nhà thờ | Church Ceremony</h3>
+								<h4>2915 W Northern Ave, Phoenix, AZ 85051</h4>
+								<h4>12:00 - 12:45 PM</h4>
+								<p>Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session<br/>
+								Xin hãy tham gia buổi chụp ảnh trước lễ tại nhà thờ. Đây là cơ hội đặc biệt để chụp hình cùng cô dâu và chú rể trước khi buổi lễ bắt đầu. Sự hiện diện của bạn sẽ giúp ghi lại những khoảnh khắc quý giá này.<br/>
+								Please join us for a pre-ceremony photo session at the church. This is a special opportunity to take pictures with the bride and groom before the ceremony begins. Your presence will help capture these cherished moments.
+							    </p>
+
+								
+
 								<h3>Legends Event Center </h3>
-								<p>4240 W Camelback Rd, Phoenix, AZ 85019</p>
+								<h4>4240 W Camelback Rd, Phoenix, AZ 85019</h4>
 								<p>SỰ HIỆN DIỆN CỦA QUÝ VỊ LÀ NIỀM VINH HẠNH CHO GIA ĐÌNH CHÚNG TÔI. <br />
 								Your presence will be a great honor to our families.</p>
 								<img src="images/logo.png" alt="logo" style="width: 25%; height: 25%;" />
