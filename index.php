@@ -55,7 +55,13 @@
 								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
 								<h3>Vietnamese Martyrs Catholic Church<br/>
 								2915 W Northern Ave, Phoenix, AZ 85051<br/>
-								<nav>
+								<style>
+									.button-link{
+										border: solid 1px;
+										border-radius: 4px;
+									}
+								</style>
+								<nav class = button-link>
 								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
 								   Xem Yelp | View Yelp
 								   </a>
