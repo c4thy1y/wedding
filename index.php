@@ -53,7 +53,7 @@
 								We would be delighted to have you at either event, though attending both is not necessary.</p>
 
 								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
-								<h3>Vietnamese Martyrs Catholic Church<br/>
+								<h3 class="border-title">Vietnamese Martyrs Catholic Church<br/>
 								2915 W Northern Ave, Phoenix, AZ 85051<br/></h3>
 
 								<h3>12:00 - 12:45 PM Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session</h3>
@@ -68,7 +68,7 @@
 
 								
 								<h2>Tiệc chiêu đãi | Reception</h2>
-								<h3>Legends Event Center <br/>
+								<h3 class="border-title">Legends Event Center <br/>
 								4240 W Camelback Rd, Phoenix, AZ 85019<br/></h3>
 
 								<h3>5:00 PM </h3> <h4>Tiệc cưới bắt đầu | Reception Starts</h4>
