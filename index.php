@@ -55,7 +55,6 @@
 								<h2>Lễ cưới tại nhà thờ | Church Ceremony</h2>
 								<h3>Vietnamese Martyrs Catholic Church<br/>
 								2915 W Northern Ave, Phoenix, AZ 85051<br/></h3>
-								<span class="image main"><img src="images/unedited_white.jpg" alt=""/></span>
 
 								<h3>12:00 - 12:45 PM Buổi Chụp Ảnh Trước Lễ | Pre-ceremony Photo Session</h3>
 								<p>Tham gia chụp ảnh cùng cô dâu và chú rể.<br/>
@@ -71,23 +70,22 @@
 								<h2>Tiệc chiêu đãi | Reception</h2>
 								<h3>Legends Event Center <br/>
 								4240 W Camelback Rd, Phoenix, AZ 85019<br/></h3>
-								<span class="image main"><img src="images/unedited_white.jpg" alt=""/></span>
-								
-								<h3>5:00 PM Tiệc cưới bắt đầu | Reception Starts</h>
 
-								<h3>5:00 - 6:30 PM Ảnh với cô dâu và chú rể | Photos with Groom and Bride</h3>
+								<h3>5:00 PM </h3> <h4>Tiệc cưới bắt đầu | Reception Starts</h4>
 
-								<h3>6:30-7:00 PM Bắt đầu bữa tối | Grand Entrance</h3>
+								<h3>5:00 - 6:30 PM</h3> <h4>Ảnh với cô dâu và chú rể | Photos with Groom and Bride</h4>
 
-								<h3>7:00 - 7:15 PM Bắt đầu bữa tối | First Dance</h3>
+								<h3>6:30-7:00 PM </h3> <h4>Bắt đầu bữa tối | Grand Entrance</h4>
 
-								<h3>7:30 - 9:30 PM Bữa tối được phục vụ | Dinner Starts </h3>
+								<h3>7:00 - 7:15 PM</h3> <h4>Bắt đầu bữa tối | First Dance</h4>
 
-								<h3>7:45 - 9:30 PM Thăm từng bàn | Table Toasting</h3>
+								<h3>7:30 - 9:30 PM</h3> <h4>Bữa tối được phục vụ | Dinner Starts </h4>
 
-								<h3>9:30 - 10:00 PM Cắt bánh | Cake Cutting</h3>
+								<h3>7:45 - 9:30 PM</h3> <h4>Thăm từng bàn | Table Toasting</h4>
 
-								<h3>10:00 PM - 2:00 AM Tiệc sau lễ cưới | After Party</h3>
+								<h3>9:30 - 10:00 PM </h3> <h4>Cắt bánh | Cake Cutting</h4>
+
+								<h3>10:00 PM - 2:00 AM </h3><h4>Tiệc sau lễ cưới | After Party</h4>
 
 								<img src="images/logo.png" alt="logo" style="width: 25%; height: 25%;" />
 								
