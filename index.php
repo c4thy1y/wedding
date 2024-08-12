@@ -33,9 +33,9 @@
 						<nav>
 							<ul>
 								<li><a href="#rsvp" style="font-size: 18px"><b>RSVP | Phản Hồi</b></a></li>
-								<li><a href="#info">Info | Thông Tin</a></li>
-								<li><a href="#gallery">Gallery | Bảo Tàng</a></li>
-								<li><a href="#contact">Travel Details | Địa Diểm</a></li>
+								<li><a href="#info" style="font-size: 14px">Info | Thông Tin</a></li>
+								<li><a href="#gallery" style="font-size: 14px">Gallery | Bảo Tàng</a></li>
+								<li><a href="#contact" style="font-size: 14px">Travel Details | Địa Diểm</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
