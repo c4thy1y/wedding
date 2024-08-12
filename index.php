@@ -150,8 +150,26 @@
 								<p>November 30th, 2024 at 5 pm. <br />
 								   Ngày 30 tháng 11 năm 2024 lúc 5 giờ chiều.</p>
 								<h3>Location | Địa Điểm</h3>
-								<p>Legends Event Center <br />
+
+
+								<p>Lễ cưới tại nhà thờ | Church Ceremony<br/>Vietnamese Martyrs Catholic Church<br/>
+								2915 W Northern Ave, Phoenix, AZ 85051</p>
+								<nav class = button-link>
+								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
+								   Xem Yelp | View Yelp
+								   </a>
+								</nav>
+
+
+								<p>Tiệc chiêu đãi | Reception<br/>Legends Event Center <br />
 								4240 W Camelback Rd, Phoenix, AZ 85019</p>
+								<nav class = button-link>
+								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
+								   Xem Yelp | View Yelp
+								   </a>
+								</nav>
+
+
 								<h3>Weather | Thời Tiết</h3>
 								<p>Late November in Phoenix typically offers pleasant weather, perfect for an indoor wedding celebration. 
 								   The days are comfortably warm with temperatures averaging in the mid-70s to low 80s Fahrenheit 
