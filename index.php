@@ -153,21 +153,23 @@
 
 
 								<p>Lễ cưới tại nhà thờ | Church Ceremony<br/>Vietnamese Martyrs Catholic Church<br/>
-								2915 W Northern Ave, Phoenix, AZ 85051</p>
+								2915 W Northern Ave, Phoenix, AZ 85051<br/>
 								<nav class = button-link>
 								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
 								   Xem Yelp | View Yelp
 								   </a>
 								</nav>
+							    </p>
 
 
 								<p>Tiệc chiêu đãi | Reception<br/>Legends Event Center <br />
-								4240 W Camelback Rd, Phoenix, AZ 85019</p>
+								4240 W Camelback Rd, Phoenix, AZ 85019<br/>
 								<nav class = button-link>
 								   <a href = "https://www.yelp.com/biz/legends-event-center-phoenix">
 								   Xem Yelp | View Yelp
 								   </a>
 								</nav>
+								</p>
 
 
 								<h3>Weather | Thời Tiết</h3>
