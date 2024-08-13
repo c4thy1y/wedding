@@ -78,7 +78,7 @@
 					2915 W Northern Ave, Phoenix, AZ 85051<br />
 
 					<nav class=button-link>
-						<a href="https://www.yelp.com/biz/legends-event-center-phoenix">
+						<a href="https://www.yelp.com/biz/vietnamese-martyrs-parish-phoenix">
 							Xem Yelp | View Yelp
 						</a>
 					</nav>
