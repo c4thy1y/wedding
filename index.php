@@ -143,90 +143,13 @@
 			</article>
 
 			<!-- About -->
-			<style>
-				.photo-gallery {
-					display: flex;
-					justify-content: center;
-					align-items: center;
-					flex-wrap: wrap;
-					min-height: 10vh;
-				}
-
-				.alb {
-					width: 100px;
-					/* Fixed width */
-					height: 100px;
-					/* Fixed height */
-					overflow: hidden;
-					/* Hide overflow */
-					display: flex;
-					/* Center the image */
-					justify-content: center;
-					align-items: center;
-					margin: 5px;
-					/* Optional margin */
-				}
-
-				.alb img {
-					width: 100%;
-					/* Scale image to fit container */
-					height: 100%;
-					/* Scale image to fit container */
-					object-fit: cover;
-					/* Cover the container, cropping if necessary */
-				}
-
-				.custom-file-input {
-					display: none;
-					/* Hide the default file input */
-				}
-
-				.custom-file-button {
-					background-color: rgba(255, 255, 255, 0.075);
-					/* Custom button color */
-					color: white;
-					/* Button text color */
-					border: none;
-					/* Remove border */
-					padding: 10px 20px;
-					/* Button padding */
-					text-align: center;
-					/* Center text */
-					text-decoration: none;
-					/* Remove underline */
-					font-size: 15px;
-					/* Button text size */
-					cursor: pointer;
-					/* Pointer cursor on hover */
-					border-radius: 5px;
-					/* Rounded corners */
-					width: 100%;
-				}
-
-				.custom-file-button:hover {
-					background-color: #45a049;
-					/* Darker shade on hover */
-				}
-
-				.file-label {
-					display: inline-block;
-					/* Space between button and file name */
-					font-size: 20px;
-
-					text-align: center;
-				}
-
-				.submit {
-					width: 100%;
-				}
-			</style>
 
 			<article id="gallery">
-				<?php if (isset($_GET['error'])): ?>
-					<p><?php echo $_GET['error']; ?></p>
-				<?php endif ?>
 
 				<h2 class="major">Gallery | Bảo Tàng</h2>
+				<p>Vui lòng tải lên bất kỳ ảnh nào của cô dâu, chú rể hoặc của bạn, và chia sẻ nhiều ảnh trong lễ cưới trên trang này để mọi người cùng xem!<br/>
+				Please upload any photos of the bride, groom, or yourself, and share plenty of wedding photos on this site for everyone to enjoy!</p>
+				<p>It's not working right now, please come back later!</p>
 
 				<!-- File Upload Form -->
 				<form id="uploadForm" action="upload.php" method="post" enctype="multipart/form-data">
@@ -236,34 +159,6 @@
 					<input type="submit" value="Upload Image | Đăng Ảnh" name="submit" class="submit">
 				</form>
 
-				<!-- Display Uploaded Images -->
-				<div id="uploadedImages" class="photo-gallery">
-					<?php
-					include "database_conn.php";
-
-					$sql = "SELECT * FROM images ORDER BY id DESC";
-					$res = mysqli_query($conn, $sql);
-
-					if (mysqli_num_rows($res) > 0) {
-						while ($images = mysqli_fetch_assoc($res)) { ?>
-							<div class="alb">
-								<img src="uploads/<?= $images['image_url'] ?>">
-							</div>
-							<?php
-						}
-					} else {
-						echo "<p>No images found.</p>";
-					}
-					?>
-				</div>
-			</article>
-			<script>
-				document.getElementById('fileToUpload').addEventListener('change', function () {
-					const fileName = this.files[0] ? this.files[0].name : 'No file chosen'; document.getElementById('fileName').textContent = 'You chose this image: ' + fileName;
-					document.getElementById('fileName').textContent = 'You chose this image: ' + fileName;
-
-				});
-			</script>
 
 			<!-- Contact -->
 			<article id="contact">
