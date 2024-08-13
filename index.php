@@ -271,25 +271,27 @@
 				/* Modal Styles */
 				.modal {
 					display: none;
-					/* Hidden by default */
 					position: fixed;
 					z-index: 9999;
-					/* Sit on top */
-					left: 0;
-					top: 0;
-					width: 100%;
-					height: 100%;
+					justify-content: center;
+					align-items: center; 
+					width: 50%;
+					height: 65%;
 					overflow: auto;
-					/* Enable scroll if needed */
 					background-color: rgba(0, 0, 0, 0.8);
-					/* Black background with opacity */
+					/* Ensure modal covers the entire viewport */
 				}
 
 				.modal-content {
 					margin: auto;
 					display: block;
-					width: 80%;
-					max-width: 700px;
+					justify-content: center;
+					align-items: center; 
+					width: 100%;
+					height: 100%;
+					padding: 20px;
+					border-radius: 10px;
+					/* Optional styling for modal content */
 				}
 
 				.close-btn {
